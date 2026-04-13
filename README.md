@@ -1,70 +1,82 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Palhano</h1>
+<h1 align="center">🚀 Matheus Palhano</h1>
 
 <p align="center">
 💻 Estudante de Ciência da Computação <br>
-🚀 Desenvolvedor Front-End em evolução
+🎯 Desenvolvedor Front-End | Game Dev
 </p>
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudando **Ciência da Computação**
-- 💻 Especialidade em **JavaScript, HTML e CSS**
-- 🎮 Conhecimento em desenvolvimento de jogos
-- 🧠 Experiência com **Unity 3D**
-- 🔥 Sempre buscando evoluir como desenvolvedor
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+Python+%7C+C%23;Game+Developer+com+Unity;Sempre+aprendendo+novas+tecnologias..." />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🧠 Sobre mim
+
+- 🎓 Cursando **Ciência da Computação**
+- 💻 Foco em **Front-End**
+- 🕹️ Experiência com **Unity 3D (C#)**
+- 🐍 Conhecimento em **Python**
+- ⚡ Buscando evoluir todos os dias
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,unity" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,cs,unity" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspalhanolunga2&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhanolunga2&layout=compact&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspalhano&show_icons=true&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhano&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔥 O que estou fazendo agora
+## 🧩 Projetos em destaque
 
-- 🚀 Aprendendo mais sobre **Front-End avançado**
-- 🎮 Criando projetos com jogos
-- 💡 Buscando melhorar minha lógica de programação
+- 🎮 Projeto de jogo com Unity
+- 🌐 Sites com HTML, CSS e JavaScript
+- 🐍 Scripts e automações em Python
+
+---
+
+## 🔥 Atualmente
+
+- 📚 Estudando lógica e algoritmos
+- 🎮 Criando jogos simples
+- 💻 Melhorando no Front-End
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: matheuspalhanolunga2020@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/matheuspalhano
-
----
-
-## ⚡ Curiosidade
-
-> Comecei na programação com jogos e hoje estou focado em me tornar um desenvolvedor completo 🚀
-
----
-
-## 🧠 Animação de digitação
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;JavaScript+Lover;Game+Dev+Explorer;Always+Learning..." />
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-⭐ Se curtir meu perfil, deixa uma estrela nos repositórios!
+## 🐍 Snake Animation (fica MUITO top)
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ Se curtir meus projetos, deixa uma estrela!
