@@ -1,63 +1,69 @@
 <h1 align="center">🚀 Matheus Palhano</h1>
 
 <p align="center">
-💻 Estudante de Ciência da Computação <br>
-🎯 Desenvolvedor Front-End | Game Dev
+💻 Ciência da Computação | Front-End Developer | Game Dev
 </p>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+Python+%7C+C%23;Game+Developer+com+Unity;Sempre+aprendendo+novas+tecnologias..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=JavaScript+%7C+Python+%7C+C%23;Desenvolvedor+Front-End;Criador+de+Jogos+com+Unity;Sempre+evoluindo..." />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Cursando **Ciência da Computação**
-- 💻 Foco em **Front-End**
-- 🕹️ Experiência com **Unity 3D (C#)**
-- 🐍 Conhecimento em **Python**
-- ⚡ Buscando evoluir todos os dias
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Especialista em **JavaScript, HTML e CSS**  
+- 🐍 Programo em **Python**  
+- 🎮 Desenvolvo jogos com **Unity (C#)**  
+- 🚀 Em constante evolução  
 
 ---
 
 ## 🚀 Tecnologias
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,python,cs,unity" />
-
-</div>
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspalhano&show_icons=true&theme=tokyonight" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhano&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=matheuspalhano&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhano&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧩 Projetos em destaque
+## 📈 Nível (igual do vídeo 🔥)
 
-- 🎮 Projeto de jogo com Unity
-- 🌐 Sites com HTML, CSS e JavaScript
-- 🐍 Scripts e automações em Python
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuspalhano&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuspalhano&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Atualmente
+## 🏆 Badges estilo profissional
 
-- 📚 Estudando lógica e algoritmos
-- 🎮 Criando jogos simples
-- 💻 Melhorando no Front-End
+<p align="center">
+<img src="https://img.shields.io/github/followers/matheuspalhano?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/matheuspalhano?style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/badge/Focus-FrontEnd-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GameDev-Unity-black?style=for-the-badge" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -71,12 +77,4 @@
 
 ---
 
-## 🐍 Snake Animation (fica MUITO top)
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐ Se curtir meus projetos, deixa uma estrela!
+⭐ Se curtir, deixa uma estrela nos repositórios!
