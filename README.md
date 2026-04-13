@@ -31,8 +31,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspalhano&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhano&layout=compact&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspalhanolunga2&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspalhanolunga2&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -48,8 +48,8 @@
 
 ## 📫 Contato
 
-- 📧 Email: (coloque aqui)
-- 💼 LinkedIn: (coloque aqui)
+- 📧 Email: matheuspalhanolunga2020@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/matheuspalhano
 
 ---
 
